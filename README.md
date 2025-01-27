@@ -1,18 +1,13 @@
-![KaanDemir](https://user-images.githubusercontent.com/80393390/230047100-402bec5b-8cbf-4a9d-887f-b1bc5024ddc2.gif)
+I am continuing with this account as I no longer have access to my previous one (https://github.com/oguzkaandemir). You can view my previous projects there.
 
-<h1 align="center">Hi 👋, I'm Oğuz Kaan</h1>
-<h3 align="center">I'm a Unity Game Developer</h3>
+I have over five years of experience in programming and technology. I entered the gaming industry in February 2022 and have been working as a Game Developer since then, acquiring extensive experience in game mechanics and design principles.
 
-- :rocket: I've been developing various projects for about 5 years due to my curiosity in programming and technology.
+In addition to my work in game development, I have executed hardware and software projects using platforms like Arduino.
 
-- :robot: I've been active in the gaming industry for the past 3 years as a Game Developer.
-
-- 🛠️ Over the past 3 years, I've been focusing on improving my Unity skills and creating tools and assets.
-
-- :robot: I've also created robots and machines using Arduino.
-
-- ℹ️ I am continuing with this account as I no longer have access to my previous one (https://github.com/oguzkaandemir). You can view my previous projects there.
-
-- :mailbox: How to reach me dmroguzkaan@gmail.com
-
-- :page_facing_up: Know about my experiences [https://www.linkedin.com/in/oguzkaandemir/](https://www.linkedin.com/in/oguzkaandemir/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/oguzkaandemir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzkaandemir" height="30" width="40" /></a>
+<a href="mailto:dmroguzkaan@gmail.com" target="_blank">
+    <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="dmroguzkaan@gmail.com" height="30" width="40" />
+</a>
+</p>
